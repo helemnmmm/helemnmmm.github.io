@@ -29,7 +29,20 @@
       "url": "https://www.usm.uni-muenchen.de/",
       "startDate": "2025-02",
       "endDate": "2025-06",
-      "summary": ""
+      "summary": "",
+      "highlights": [""]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "location": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
@@ -43,6 +56,15 @@
       "endDate": "",
       "score": "",
       "courses": [""]
+    }
+  ],
+  "publications": [
+    { 
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
     }
   ],
   "skills": [
@@ -93,6 +115,28 @@
       "keywords": [
        
       ]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "icon": "",
+      "reference": ""
+    },
+    {
+      "name": "",
+      "icon": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "summary": "",
+      "highlights": [""],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
     }
   ]
 }
