@@ -13,16 +13,16 @@ profile:
     <p> Nanjing 210023, Jiangsu, China</p>
     <p><a href="mailto:221840237@smail.nju.edu.cn">221840237@smail.nju.edu.cn</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -36,9 +36,4 @@ I have been investigating how dark matter influences anisotropies in the gravita
 
 Currently, I am visiting Munich under the supervision of Professor Daniel Gruen, where I am part of a team searching for new electromagnetic counterparts associated with gravitational-wave events from the fourth LIGO/Virgo/KAGRA observing run. Beyond daily observation and data analysis tasks, I focus on interpreting our data through light-curve modeling and detectability analysis. We aim to refine detection limits by identifying parameter combinations that render astrophysical events undetectable under current observational constraints, thereby offering theoretical insights to optimize follow-up strategies.
 
-**Just like my website, I am still constructing the building in my academic career(now maybe just laying the foundation). I am always enthusiastic about discussing science and collaborating with others. Please feel free to reach out if you are interested in my work or just want to chat about exciting ideas!**
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+**Just like my website, I am still constructing the building in my academic career ( now maybe just laying the foundation). I am always enthusiastic about discussing science and collaborating with others. Please feel free to reach out if you are interested in my work or just want to chat about exciting ideas!**
