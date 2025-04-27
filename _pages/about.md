@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href=''>Bachelor Student</a>,<a href='https://astronomy.nju.edu.cn/'>Department of Astronomy, Nanjing University</a> <br/> 
+subtitle: <a href=''>Bachelor Student</a>, <a href='https://astronomy.nju.edu.cn/'>Department of Astronomy, Nanjing University</a> <br/> 
 
 profile:
   align: right
