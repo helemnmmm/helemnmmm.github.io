@@ -9,16 +9,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "Blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -75,11 +68,11 @@ ninja.data = [{
           window.open("mailto:%32%32%31%38%34%30%32%33%37@%73%6D%61%69%6C.%6E%6A%75.%65%64%75.%63%6E", "_blank");
         },
       },{
-        id: 'social-instagram',
-        title: 'Instagram',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/helemnmmm", "_blank");
+          window.open("https://github.com/helemnmmm", "_blank");
         },
       },{
         id: 'social-orcid',
