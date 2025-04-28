@@ -29,7 +29,7 @@
       "url": "https://www.usm.uni-muenchen.de/",
       "startDate": "2025-02",
       "endDate": "2025-06",
-      "summary": ""
+      "summary": "Supervised by <a href=\"https://www.imprs-astro.mpg.de/content/prof-dr-daniel-grun-0.html\">Prof. Dr. Daniel Gruen</a>"
     }
   ],
   "education": [
@@ -41,8 +41,7 @@
       "studyType": "Bachelor in Science",
       "startDate": "2022-09",
       "endDate": "",
-      "score": "",
-      "courses": [""]
+      "score": "GPA: 4.46/5.0"
     }
   ],
   "skills": [
@@ -75,6 +74,24 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "Mathematica",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "PyTorch",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
     }
   ],
   "awards": [
@@ -95,13 +112,13 @@
       "title": "Nanjing University Dongliang Excellence Scholarship",
       "date": "2024-10",
       "awarder": "Nanjing University",
-      "url": ""
+      "url": "https://www.nju.edu.cn/"
     },
     {
       "title": "Nanjing University Undergraduate Fundamental Discipline Special Scholarship",
       "date": "2024-09",
       "awarder": "Nanjing University",
-      "url": ""
+      "url": "https://www.nju.edu.cn/"
     }
   ],
   "languages": [
