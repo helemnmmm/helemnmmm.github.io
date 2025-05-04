@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [Work, Course]
+display_categories: [astro-ph.CO, astro-ph.HE]
 horizontal: false
 ---
 

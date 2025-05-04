@@ -1,7 +1,7 @@
 github_users:
   # - torvalds
   # - alshedivat
-  - helemnmmm
+  # - helemnmmm
 
 repo_description_lines_max: 2
 
@@ -13,3 +13,5 @@ github_repos:
   # - FortAwesome/Font-Awesome
   # - mathjax/MathJax
   # - jpswalsh/academicons
+  - helmnmmm/GW_detection_using_deep_learning
+
