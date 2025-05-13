@@ -43,9 +43,6 @@ This study demonstrates that deep learning on matched-filtering outputs holds pr
      <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/detect_gw/singal.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
-     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/detect_gw/method_comparison.png" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption">
     On the left, sensitivity curves illustrating the ability of the neural network to identify BNS(lower) and BBH(upper) GW signals. The true alarm probability is plotted as a function of the optimal SNR for false alarm probability. The figure shows the sensitivity of detecting GW signals embedded in Gussian noise from the test data set.a road goes through a tunnel. 
