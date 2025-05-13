@@ -205,7 +205,6 @@ exclude:
   - _pages/publications.md
   # - _pades/dropdown.md
   # - _posts/   # all blog files
-  - postorigin/
   - _projects/3_project.md
   - _projects/8_project.md
   - assets/jupyter/blog.ipynb
