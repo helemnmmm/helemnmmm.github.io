@@ -15,7 +15,7 @@ In this work, we explore a neural network pipeline that ingests the signal-to-no
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/detect_gw/model_comparision.png" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/detect_gw/model_comparison.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -45,7 +45,7 @@ This study demonstrates that deep learning on matched-filtering outputs holds pr
         {% include figure.liquid loading="eager" path="assets/img/detect_gw/singal.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/detect_gw/method_comparision.png" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/detect_gw/method_comparison.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
