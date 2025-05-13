@@ -19,8 +19,7 @@ In this work, we explore a neural network pipeline that ingests the signal-to-no
     </div>
 </div>
 <div class="caption">
-     The sensitivity curves for GW detection using CNN, ResNet50, and ResNet101 models actually demonstrate no too much differences in performance across varying
- false-alarm probabilities (FAP) and signal-to-noise ratios (SNR) as we see. The three models exhibits reasonable sensitivity which improves as the SNR increases. The additional depth of ResNet seems don’t allows for more comprehensive feature representation, enabling consistent and robust performance even at lower SNRs. 
+    The sensitivity curves for GW detection using CNN, ResNet50, and ResNet101 models actually demonstrate no too much differences in performance across varying false-alarm probabilities (FAP) and signal-to-noise ratios (SNR) as we see. The three models exhibits reasonable sensitivity which improves as the SNR increases. The additional depth of ResNet seems don’t allows for more comprehensive feature representation, enabling consistent and robust performance even at lower SNRs. 
 </div>
 
 - **Approach:** We train convolutional and residual neural networks on matched-filtering SNR series for both BBH and BNS signals. We compare traditional “pre-computed” data augmentation with an efficient “on-the-fly” method.
@@ -49,11 +48,18 @@ This study demonstrates that deep learning on matched-filtering outputs holds pr
     </div>
 </div>
 <div class="caption">
-     On the left, sensitivity curves illustrating the ability of the neural network to identify BNS(lower) and BBH(upper) GW signals. The true alarm probability is plotted as a function of the
- optimal SNR for false alarm probability. The figure shows the sensitivity of detecting GW signals embedded in Gussian noise from the test data set.a road goes through a tunnel. Middle, Inserted into simulated LIGO noise are representative signals from binary neutron star (BNS) and binary black hole (BBH) systems. (Upper panel) Presented is a whitened, noise-free temporal sequence representing a gravitational wave signal from a binary neutron star system, featuring an optimal signal-to-noise ratio (SNR) of 30. The blue curve illustrates the same gravitational-wave signal superimposed with additive whitened simulated LIGO noise with unit variance. This time series serves as an exemplar within the dataset utilized for training, validation, and testing of the convolutional neural network. (Lower panel) Analogous to the upper panel, this display pertains to a binary black hole gravitational-wave signal, with an optimal SNR of 20. Right, Method comparison illustrates the comparative analysis of methods applied in BBH using the CNN model.Traditional approaches(upper) exhibit considerable robustness concerning training accuracy and testing performance than on-the-fly data augmentation(lower).
+    On the left, sensitivity curves illustrating the ability of the neural network to identify BNS(lower) and BBH(upper) GW signals. The true alarm probability is plotted as a function of the optimal SNR for false alarm probability. The figure shows the sensitivity of detecting GW signals embedded in Gussian noise from the test data set.a road goes through a tunnel. 
+    Right, Inserted into simulated LIGO noise are representative signals from binary neutron star (BNS) and binary black hole (BBH) systems. (Upper panel) Presented is a whitened, noise-free temporal sequence representing a gravitational wave signal from a binary neutron star system, featuring an optimal signal-to-noise ratio (SNR) of 30. The blue curve illustrates the same gravitational-wave signal superimposed with additive whitened simulated LIGO noise with unit variance. This time series serves as an exemplar within the dataset utilized for training, validation, and testing of the convolutional neural network. (Lower panel) Analogous to the upper panel, this display pertains to a binary black hole gravitational-wave signal, with an optimal SNR of 20. 
 </div>
 
-
+<div class="row">
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/detect_gw/method_comparison.png" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Method comparison illustrates the comparative analysis of methods applied in BBH using the CNN model.Traditional approaches(upper) exhibit considerable robustness concerning training accuracy and testing performance than on-the-fly data augmentation(lower).
+</div>
 
 
 
