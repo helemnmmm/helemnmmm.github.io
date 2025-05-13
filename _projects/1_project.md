@@ -15,7 +15,7 @@ In this work, we explore a neural network pipeline that ingests the signal-to-no
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/detect_gw/model_comparision.png" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/detect_gw/model_comparision.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -33,19 +33,19 @@ In this work, we explore a neural network pipeline that ingests the signal-to-no
 This study demonstrates that deep learning on matched-filtering outputs holds promise as a complementary CBC detection method, particularly for BBH signals, and offers a roadmap for overcoming challenges in BNS detection and real-time application.  
 
 ## Availability
-- Document: [here](helemnmmm/helemnmmm.github.io/assets/pdf/dectection_gw.pdf)
+- Document: [here](https://helemnmmm.github.io/assets/pdf/dectection_gw.pdf)
 - Codes: [codes](https://github.com/helemnmmm/GW_detection_using_deep_learning)
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/detect_gw/Sensitivity_curves.png" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/detect_gw/Sensitivity_curves.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/detect_gw/singal.png" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/detect_gw/singal.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/detect_gw/method_comparision.png" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/detect_gw/method_comparision.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
