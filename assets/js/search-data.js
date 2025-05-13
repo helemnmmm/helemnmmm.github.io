@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
+  },{id: "nav-blog",
+          title: "Blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-projects",
           title: "Projects",
           description: "",
           section: "Navigation",
@@ -30,14 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-blog",
-              title: "Blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+        },{id: "post-rh-ct-universe",
+        
+          title: "Rh=ct universe",
+        
+        description: "a different cosmology model",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/assets/pdf/Rhuniverse.pdf";
+          
+        },
+      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -46,6 +57,17 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+          
+        },
+      },{id: "post-classic-mechanics-on-manifolds",
+        
+          title: "classic mechanics on manifolds",
+        
+        description: "a rigorous introduction to classical mechanics formulated on differentiable manifolds. It begins with a review of differential geometry concepts essential for mechanics, such as manifolds, tangent bundles, and vector fields. The text then develops Lagrangian and Hamiltonian mechanics in this geometric framework, emphasizing the role of symplectic geometry and conservation laws via Noether&#39;s theorem. Applications include discussions of geodesic motion, constrained systems, and canonical transformations, making it a valuable reference for readers interested in the mathematical foundations of classical dynamics.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/assets/pdf/manifolds.pdf";
           
         },
       },{id: "books-the-godfather",
