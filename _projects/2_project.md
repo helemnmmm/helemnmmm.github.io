@@ -5,7 +5,7 @@ title: Nanohertz gravitational waves—a new probe of the matter distribution
 description: 
 img: assets/img/SGWB/nanogra.jpg
 importance: 1
-category: astro-ph.CO
+category: Cosmology and Nongalactic Astrophysics
 related_publications: false
 ---
 

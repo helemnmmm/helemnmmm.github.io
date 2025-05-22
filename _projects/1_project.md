@@ -4,7 +4,7 @@ title: Detection of Gravitational Waves using Deep Learning
 description: 
 img: assets/img/detect_gw/det_gw.jpg
 importance: 1
-category: astro-ph.CO
+category: Cosmology and Nongalactic Astrophysics
 related_publications: false
 ---
 Ground-based interferometers now routinely detect gravitational waves (GWs) from compact binary coalescences (CBCs). While most detections so far are binary black hole (BBH) mergers, a few binary neutron star (BNS) and neutron star–black hole (NSBH) events have also been observed. The first BNS event, GW170817, ushered in multi-messenger astronomy and enabled key measurements of the Hubble constant and neutron-star physics. As detector sensitivity improves and new instruments come online, the prospect of more multi-messenger detections motivates development of complementary CBC search methods.

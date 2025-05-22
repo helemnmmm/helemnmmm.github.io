@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [astro-ph.CO, astro-ph.HE]
+display_categories: [Cosmology and Nongalactic Astrophysics,  High Energy Astrophysical Phenomena]
 horizontal: false
 ---
 
