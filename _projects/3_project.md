@@ -2,9 +2,10 @@
 layout: page
 title: Hunting optical counterparts of gravitational wave events with Wendelstein
 description: 
-img: assets/gw_followup/gw_followup.png
+img: assets/img/gw_followup/gw_followup.png
 importance: 1
 category: High Energy Astrophysical Phenomena
+related_publications: false
 ---
 
 The discovery of gravitational waves (GWs) marked the beginning of a new era in astronomy—the era of multi-messenger astrophysics. Since the operation of ground-based gravitational wave detectors such as LIGO, Virgo, and KAGRA, astronomers have been able to detect gravitational wave events from compact binary mergers (including binary black holes (BBH), binary neutron stars (BNS), and neutron star–black hole systems (NSBH)) at a rate of approximately one per day, a trend expected to continue through June 2025. Among these events, a fraction (particularly BNS, some NSBH, and BBH mergers within active galactic nuclei accretion disks) is expected to be accompanied by observable electromagnetic radiation, especially in the optical bands, which we call **electromagnetic counterparts**. However, only one electromagnetic counterpart—GW170817—has been definitively confirmed to date, limiting our understanding of the physical nature of GW sources.

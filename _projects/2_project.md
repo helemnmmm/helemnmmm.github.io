@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Nanohertz gravitational waves—a new probe of the matter distribution
- of Milky way galaxy
+title: Nanohertz gravitational waves—a new probe of the matter distribution of Milky way galaxy
 description: 
 img: assets/img/SGWB/nanogra.jpg
 importance: 1
