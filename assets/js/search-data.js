@@ -74,6 +74,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-hunting-optical-counterparts-of-gravitational-wave-events-with-wendelstein",
+          title: 'Hunting optical counterparts of gravitational wave events with Wendelstein',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
