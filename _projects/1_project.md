@@ -2,7 +2,7 @@
 layout: page
 title: Detection of Gravitational Waves using Deep Learning
 description: 
-img: assets/img/detect_gw/det_gw.jpg
+img: assets/img/detect_gw/det_gw.png
 importance: 1
 category: Cosmology and Nongalactic Astrophysics
 related_publications: false

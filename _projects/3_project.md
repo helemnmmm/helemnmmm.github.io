@@ -2,7 +2,7 @@
 layout: page
 title: Hunting optical counterparts of gravitational wave events with Wendelstein
 description: 
-img: assets/gw_followup//gw_followup.png
+img: assets/gw_followup/gw_followup.png
 importance: 1
 category: High Energy Astrophysical Phenomena
 ---
