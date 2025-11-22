@@ -6,7 +6,7 @@ subtitle: <a href=''>Bachelor Student</a>, <a href='https://astronomy.nju.edu.cn
 
 profile:
   align: right
-  image: you.jpg
+  image: me_0.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Nanjing University</p>
@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, welcome to my website!
+Hi, welcome!
 My name is Malin Ouyang (欧阳马霖), and I am an undergraduate student at the Department of Astronomy, Nanjing University, China. You can find my [CV](/assets/pdf/cv.pdf) here.
 
-My current research interests lie in cosmology, gravitation, and gravitational waves (it sounds broad because I am still exploring!). I am particularly interested in working at the interface between theory and observation—employing high-precision numerical simulations and analytical modeling to interpret and constrain observational results. Also I aim to explore how different theoretical models govern the universe's behavior, and to develop methods to test the physical phenomena they predict.
+My current research interests lie in early universe, black hole, and gravitational waves (it sounds broad because I am still exploring!). I am particularly interested in working at the interface between theory and observation—employing high-precision numerical simulations and analytical modeling to interpret and constrain observational results. 
 
-I have been investigating how dark matter influences anisotropies in the gravitational wave background and worked on interpreting the cosmic variance in spatial correlations. Additionally, with the transformative impact of artificial intelligence and machine learning on astrophysics, I am enthusiastic about embedding new AI modules into research pipelines to accelerate and enrich scientific discovery. For example, I used deep learning techniques to detect gravitational-wave signals from binary mergers and successfully reproduced previous results by substituting traditional models.
+<!-- I have been investigating how dark matter influences anisotropies in the gravitational wave background and worked on interpreting the cosmic variance in spatial correlations. Additionally, with the transformative impact of artificial intelligence and machine learning on astrophysics, I am enthusiastic about embedding new AI modules into research pipelines to accelerate and enrich scientific discovery. For example, I used deep learning techniques to detect gravitational-wave signals from binary mergers and successfully reproduced previous results by substituting traditional models. -->
 
-**Like my website, I am still constructing the building in my academic career (now maybe just laying the foundation). I am always enthusiastic about discussing science and collaborating with others. Please feel free to reach out if you are interested in my work or just want to chat about exciting ideas!**
+**Like my website, I am still constructing the building in my academic career (now maybe just laying the foundation). Feel free to reach out if you are interested in my work or just want to chat about exciting ideas!**
