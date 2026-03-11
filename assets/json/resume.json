@@ -36,7 +36,7 @@
       "position": "Intern student",
       "url": "https://www.astro.columbia.edu/",
       "startDate": "2025-09",
-      "endDate": "",
+      "endDate": "2026-03",
       "summary": "Supervised by <a href=\"https://www.astro.columbia.edu/content/greg-bryan\">Prof. Dr. Greg Bryan</a>"
     }
   ],
@@ -102,27 +102,7 @@
       "keywords": []
     }
   ],
-  "awards": [
-    {
-      "title": "National Natural Science Foundation Youth Student Basic Research Program(Undergraduate) ",
-      "date": "2024-09",
-      "awarder": "National Natural Science Foundation of China",
-      "url": "https://www.nsfc.gov.cn/",
-      "summary": "Select the best undergraduate students and support them through fund projects to enhance their scientific literacy, and encourage them to conduct innovative research,Only about 150 students country-wide"
-    },
-    {
-      "title": "National Astronomical Observatories, CAS Scholarship",
-      "date": "2024-06",
-      "awarder": "National Astronomical Observatories, CAS",
-      "url": "https://www.nao.cas.cn/"
-    },
-    {
-      "title": "National Scholarship",
-      "date": "2025-10",
-      "awarder": "Ministry of Education of the People's Republic of China",
-      "url": "http://en.moe.gov.cn/"
-    }
-  ],
+  "awards": [],
   "languages": [
     {
       "language": "Chinese",
